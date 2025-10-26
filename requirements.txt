@@ -1,0 +1,7 @@
+# Requirements for Agent Network Expander (Local Version)
+
+# Ollama Python client for local LLM inference
+ollama>=0.1.0
+
+# Optional: Enhanced CLI experience
+rich>=13.0.0

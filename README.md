@@ -166,4 +166,10 @@ Contributions welcome! This template is designed to be extended with:
 
 ## License
 
-[Add your license here]
+MIT License - See [LICENSE](LICENSE) file for details.
+
+## Author
+
+Created by Daniel Rosehill
+- Website: [danielrosehill.com](https://danielrosehill.com)
+- Email: public@danielrosehill.com
